@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/error-tracking-app/static/css/main.7bd9c7e2.css",
-    "main.js": "/error-tracking-app/static/js/main.3dc678e9.js",
+    "main.js": "/error-tracking-app/static/js/main.30394049.js",
     "static/js/787.46459e3a.chunk.js": "/error-tracking-app/static/js/787.46459e3a.chunk.js",
     "static/media/bubble-gum_get-int-touch.gif": "/error-tracking-app/static/media/bubble-gum_get-int-touch.fccb7171e8447468869d.gif",
     "index.html": "/error-tracking-app/index.html",
     "main.7bd9c7e2.css.map": "/error-tracking-app/static/css/main.7bd9c7e2.css.map",
-    "main.3dc678e9.js.map": "/error-tracking-app/static/js/main.3dc678e9.js.map",
+    "main.30394049.js.map": "/error-tracking-app/static/js/main.30394049.js.map",
     "787.46459e3a.chunk.js.map": "/error-tracking-app/static/js/787.46459e3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd9c7e2.css",
-    "static/js/main.3dc678e9.js"
+    "static/js/main.30394049.js"
   ]
 }
