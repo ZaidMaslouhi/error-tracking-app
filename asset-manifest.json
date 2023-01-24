@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/error-tracking-app/build/static/css/main.7bd9c7e2.css",
-    "main.js": "/error-tracking-app/build/static/js/main.3af69f32.js",
-    "static/js/787.46459e3a.chunk.js": "/error-tracking-app/build/static/js/787.46459e3a.chunk.js",
-    "static/media/bubble-gum_get-int-touch.gif": "/error-tracking-app/build/static/media/bubble-gum_get-int-touch.fccb7171e8447468869d.gif",
-    "index.html": "/error-tracking-app/build/index.html",
-    "main.7bd9c7e2.css.map": "/error-tracking-app/build/static/css/main.7bd9c7e2.css.map",
-    "main.3af69f32.js.map": "/error-tracking-app/build/static/js/main.3af69f32.js.map",
-    "787.46459e3a.chunk.js.map": "/error-tracking-app/build/static/js/787.46459e3a.chunk.js.map"
+    "main.css": "/error-tracking-app/index.html/static/css/main.7bd9c7e2.css",
+    "main.js": "/error-tracking-app/index.html/static/js/main.f1ef46fc.js",
+    "static/js/787.46459e3a.chunk.js": "/error-tracking-app/index.html/static/js/787.46459e3a.chunk.js",
+    "static/media/bubble-gum_get-int-touch.gif": "/error-tracking-app/index.html/static/media/bubble-gum_get-int-touch.fccb7171e8447468869d.gif",
+    "index.html": "/error-tracking-app/index.html/index.html",
+    "main.7bd9c7e2.css.map": "/error-tracking-app/index.html/static/css/main.7bd9c7e2.css.map",
+    "main.f1ef46fc.js.map": "/error-tracking-app/index.html/static/js/main.f1ef46fc.js.map",
+    "787.46459e3a.chunk.js.map": "/error-tracking-app/index.html/static/js/787.46459e3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bd9c7e2.css",
-    "static/js/main.3af69f32.js"
+    "static/js/main.f1ef46fc.js"
   ]
 }
